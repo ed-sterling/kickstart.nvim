@@ -30,6 +30,10 @@
       "rev": "84a4987ff36798c2fc1169cbaff67960aed9776f",
       "src": "https://github.com/NMAC427/guess-indent.nvim"
     },
+    "indent-blankline.nvim": {
+      "rev": "d28a3f70721c79e3c5f6693057ae929f3d9c0a03",
+      "src": "https://github.com/lukas-reineke/indent-blankline.nvim"
+    },
     "mason-lspconfig.nvim": {
       "rev": "7b01e2974a47d489bb92f47a41e4c0088ea8f86e",
       "src": "https://github.com/mason-org/mason-lspconfig.nvim"
@@ -54,6 +58,14 @@
     "nui.nvim": {
       "rev": "de740991c12411b663994b2860f1a4fd0937c130",
       "src": "https://github.com/MunifTanjim/nui.nvim"
+    },
+    "nvim-autopairs": {
+      "rev": "7b9923abad60b903ece7c52940e1321d39eccc79",
+      "src": "https://github.com/windwp/nvim-autopairs"
+    },
+    "nvim-lint": {
+      "rev": "d48f3a76189d03b2239f6df1b2f7e3fa8353743b",
+      "src": "https://github.com/mfussenegger/nvim-lint"
     },
     "nvim-lspconfig": {
       "rev": "6f76a3eeadc2ee235d74cd7d5319e95a261084af",
