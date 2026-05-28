@@ -391,7 +391,6 @@ do
     },
   }
 
-
   vim.pack.add { gh 'kepano/flexoki-neovim' }
   ---@diagnostic disable-next-line: missing-fields
   require('flexoki').setup {
